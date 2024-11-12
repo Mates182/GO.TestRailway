@@ -4,7 +4,7 @@
 This is a simple Go application that starts an HTTP server and responds with "hello world." 
 
 ## Project Links
-- **Railway Public URL**: [GO Test on Railway](https://hub.docker.com/repository/docker/mates182/go_practicetask)
+- **Railway Public URL**: [GO Test on Railway](https://gotestrailway-mateopillajo.up.railway.app)
 
 ## Getting Started
 
